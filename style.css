@@ -1,0 +1,23 @@
+html{
+    background-color: blueviolet;
+}
+body{
+    text-align: center;
+}
+
+h1{
+    color:coral;
+}
+.table
+{
+    background-color: red;
+    border: 1px;
+    font-size: 10px;
+}
+
+.column {
+    
+    float:left;
+    width:40%;
+    padding:5px;
+}
